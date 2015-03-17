@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.CRGames.GameNetworking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com.CRGames.GameNetworking.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
