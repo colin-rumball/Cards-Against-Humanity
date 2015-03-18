@@ -171,11 +171,11 @@ public class ClientWindow extends JFrame {
         blackCardTextArea.setVisible(false);
 
         JOptionPane.showMessageDialog(this,
-                "When the game starts each player will draw 5 white whiteCardTextAreas." +
+                "When the game starts each player will draw 5 white cards." +
                         "\n One person is given 1 black card and thus they are the question" +
                         "\nasker. Everyone else answers the question or fills in the " +
-                        "\nblank(s) by selecting one or more white whiteCardTextAreas from their" +
-                        "\nhands. These whiteCardTextAreas are then sent anonymously to the black card holder. " +
+                        "\nblank(s) by selecting one or more white cards from their" +
+                        "\nhands. These cards are then sent anonymously to the black card holder. " +
                         "\nThe black card holder then picks the funniest white card(s)" +
                         "\nthat creates a good combination with the black card, and " +
                         "\nwhoever submitted the selected white card gets 1 Point." +
